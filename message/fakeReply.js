@@ -36,7 +36,7 @@ exports.fakeToko = (fake, buffer = setting.pathImg) => {
 					"title": fake,
 					"description": "Self Aqulzz nih Boss",
 					"currencyCode": "IDR",
-					"priceAmount1000": "50000000",
+					"priceAmount1000": "2021",
 					"retailerId": "Self Bot",
 					"productImageCount": 1
 				},
@@ -45,3 +45,23 @@ exports.fakeToko = (fake, buffer = setting.pathImg) => {
         }
 	}
 }
+
+exports.fakeTroli = (fake, buffer = setting.pathImg) => {
+    return {
+	key : {
+                          participant : '0@s.whatsapp.net'
+                        },
+       message: {
+                    orderMessage: {
+                            itemCount : 1,
+                            status: 1,
+                            surface : 1,
+                            message: fake, //Kasih namalu hedeh 
+                            orderTitle: 'Bang',
+                            thumbnail: buffer, //Gambarnye
+                            sellerJid: '0@s.whatsapp.net'
+          
+                          }
+                        }
+                      }
+                     }
