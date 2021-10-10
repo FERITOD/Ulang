@@ -1,24 +1,28 @@
 {
-    "ownerNumber": "6285158549166@s.whatsapp.net",
-    "ownerName": "aqulzz",
+    "ownerNumber": "6285775112680@s.whatsapp.net",
+    "busines": "0@s.whatsapp.net",
+    "owner": "6285775112680",
+    "ownerName": "DIMAS BOT",
     "limitCount": 30,
+    "linkgc": "https://chat.whatsapp.com/HtupgW2zN9C6aNzktp3bX9",
     "gamewaktu": 60,
-    "botName": "Xinz Bot",
+    "botName": "FERIBotz",
     "pathImg": "./media/Itsuki.jpg",
-    "apikey": "YOUR_APIKEY",
-    "fake": "XINZ-BOTZ VERIFIED",
+    "apikey": "DinataApikeyAnu",
+    "fake": "JANGAN LUPA MAKAN",
     "sesidInsta": "default",
-    "sessionName": "aqulzz",
-    "txtDonasi": "GOPAY : 085157226383\nTrakteer : https://trakteer.id/aqulzz\nSaweeria : https://saweria.co/aqulzz\nPulsa : 085157226383",
+    "sessionName": "Dep",
+    "fakeTromli": "HELLOWORLD",
+    "txtDonasi": "Saweria : https://saweria.co/DepinBau",
     "gcount": {
         "prem": 40,
         "user": 20
     },
     "emote":{
-        "free": "◽",
-        "owner": "◾",
-        "limit": "🔸",
-        "glimit": "🔹",
-        "prem": "💰"
+        "free": "â—½",
+        "owner": "â—¾",
+        "limit": "ðŸ”¸",
+        "glimit": "ðŸ”¹",
+        "prem": "ðŸ’°"
     }
 }
